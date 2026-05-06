@@ -12,3 +12,5 @@ print("Hello, world!..\n\n")
 result = my_func(25, 7)
 
 print(f"Result: {result}")
+
+print("Hi VS Code!")
